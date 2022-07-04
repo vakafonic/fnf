@@ -1,0 +1,12 @@
+{
+    "/js/index.min.js": "/js/index.min.js",
+    "/css/lib.css": "/css/lib.css",
+    "/css/fonts.min.css": "/css/fonts.min.css",
+    "/css/app.css": "/css/app.css",
+    "/js/lib.js": "/js/lib.js",
+    "/js/app.js": "/js/app.js",
+    "/assets/js/tinymce/jquery.tinymce.js": "/assets/js/tinymce/jquery.tinymce.js",
+    "/assets/js/tinymce/jquery.tinymce.min.js": "/assets/js/tinymce/jquery.tinymce.min.js",
+    "/assets/js/tinymce/tinymce.js": "/assets/js/tinymce/tinymce.js",
+    "/assets/js/tinymce/tinymce.min.js": "/assets/js/tinymce/tinymce.min.js"
+}

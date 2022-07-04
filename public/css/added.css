@@ -1,0 +1,44 @@
+.search-submitter .icon-search:before {
+    color: black;
+}
+
+.iframe-buttons {
+    display: none;
+    position: absolute;
+    top: 100px;
+    right: -45px;
+}
+
+.iframe-buttons button{
+    margin-bottom: 10px;
+}
+
+.game-closer, .game-reloader{
+    position: static;
+}
+
+.autocomplete-suggestions {
+    position: inherit!important;
+}
+
+.search-result__body {
+    overflow: inherit;
+}
+
+.show-all-button-div {
+    display: inline-flex;
+    width: 100%;
+}
+.show-all-button-div a{
+    cursor: pointer;
+    justify-content: center;
+}
+
+.search-empty-bl {
+    color: black;
+    padding: 20px;
+}
+
+.load_more {
+    cursor: pointer;
+}

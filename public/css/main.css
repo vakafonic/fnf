@@ -1,0 +1,75 @@
+.errorMessage {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #e85f11;
+    border: 1px solid #e85f11;
+    padding: 5px;
+}
+.user__change > img, .header__user--ava > img {
+    width: inherit;
+}
+.user__change i {
+    position: absolute;
+    bottom: 0px;
+    width: inherit;
+}
+.badge.badge-danger {
+    padding: 5px;
+    color: #e85f11;
+}
+.button:disabled {
+    background-color: #828282;
+    background-image: none;
+    color: #fff;
+}
+.button:disabled:hover {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+.comments__rate--down:disabled:hover {
+    color: #b7b7b7 !important;
+}
+.comments__rate button:disabled:hover {
+    color: #b7b7b7 !important;
+}
+.m-t-30 {
+    margin-top: 30px !important;
+}
+.fancybox-popup .popup__tabs--link:first-child {
+    margin-right: 0 !important;
+}
+.danger-top-noty {
+    background: #e85f11;
+    padding: 8px;
+    color: #ffffff;
+    font-weight: 600;
+}
+.danger-top-noty a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+.danger-top-noty a:hover {
+    text-decoration: none;
+}
+.rating.check > label:hover, .rating.check > input:not(:checked) > label:hover {
+    color: #d1d1d1;
+    cursor: inherit;
+}
+.rating.check > input:checked ~ label:hover, .rating.check:not(:checked) > label:hover ~ label{
+    color: #f3c62a;
+    cursor: inherit;
+}
+.section-comments-child {
+    position: relative;
+}
+.abs-loader {
+    position: absolute;
+    top: 50px;
+}
+
+.computers-only {
+    color: #fff;
+    margin: 0 0 20px;
+    font-size: 12pt;
+    font-weight: 500;
+}

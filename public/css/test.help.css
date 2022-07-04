@@ -1,0 +1,6 @@
+.categories:not(.isVisible) .category:nth-child(1n+6) {
+    display: none;
+}
+.categories-swiper-container:not(.isVisible) .category:nth-child(1n+6) {
+    display: none;
+}
